@@ -11,8 +11,12 @@ The project utilizes machine learning algorithms to analyze water quality data a
 
 Project Structure:
 
-Data Collection: Gather water quality data from various sources, including sensors, laboratories, and historical records.
-Data Preprocessing: Clean the data, handle missing values, and preprocess features for modeling.
+* Data Collection:
+Gather water quality data from various sources, including sensors, laboratories, and historical records.
+
+* Data Preprocessing:
+Clean the data, handle missing values, and preprocess features for modeling.
+
 Feature Engineering: Extract relevant features and transform them for improved model performance.
 Model Development: Train machine learning models such as logistic regression, decision trees, random forests, or neural networks.
 Model Evaluation: Assess model performance using metrics like accuracy, precision, recall, and F1-score.
